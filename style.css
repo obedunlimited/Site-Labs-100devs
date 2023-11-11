@@ -1,0 +1,49 @@
+
+body{
+    background: #87CEEB;
+    border: 5px solid lightgreen;
+    margin: 60px auto;
+    padding: 60px auto;
+    height: 60%;
+    width: 60%;
+    color: white;
+    font-size: 20px;
+
+}
+
+h1{
+    font-style: italic;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 400;
+}
+h3{
+    color: white;
+    font-family:'Roboto', sans-serif;
+    text-align: center;
+    font-size: 18px;
+}
+h2{
+    color: white;
+    font-family:'Roboto', sans-serif;
+}
+
+.container{
+    padding: 30px;
+}
+
+
+img {
+    width: 25%;
+    height: 25%;
+    float: right;
+    margin: 10px; /* Add margin to give some spacing between the image and text */
+  }
+  
+
+
+.clearfix{
+    clear: both;
+}
+  
